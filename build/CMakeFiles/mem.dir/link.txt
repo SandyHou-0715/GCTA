@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libmem.a CMakeFiles/mem.dir/src/mem.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libmem.a

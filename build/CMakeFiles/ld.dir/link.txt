@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libld.a CMakeFiles/ld.dir/src/LD.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libld.a

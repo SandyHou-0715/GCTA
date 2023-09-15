@@ -1,0 +1,296 @@
+[
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build -I/Users/houjunren/Desktop/gcta -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/covar.dir/src/Covar.cpp.o -c /Users/houjunren/Desktop/gcta/src/Covar.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/src/Covar.cpp",
+  "output": "CMakeFiles/covar.dir/src/Covar.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build -I/Users/houjunren/Desktop/gcta -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/fastfam.dir/src/FastFAM.cpp.o -c /Users/houjunren/Desktop/gcta/src/FastFAM.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/src/FastFAM.cpp",
+  "output": "CMakeFiles/fastfam.dir/src/FastFAM.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build -I/Users/houjunren/Desktop/gcta -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/grm.dir/src/GRM.cpp.o -c /Users/houjunren/Desktop/gcta/src/GRM.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/src/GRM.cpp",
+  "output": "CMakeFiles/grm.dir/src/GRM.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build -I/Users/houjunren/Desktop/gcta -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/geno.dir/src/Geno.cpp.o -c /Users/houjunren/Desktop/gcta/src/Geno.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/src/Geno.cpp",
+  "output": "CMakeFiles/geno.dir/src/Geno.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build -I/Users/houjunren/Desktop/gcta -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/ld.dir/src/LD.cpp.o -c /Users/houjunren/Desktop/gcta/src/LD.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/src/LD.cpp",
+  "output": "CMakeFiles/ld.dir/src/LD.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build -I/Users/houjunren/Desktop/gcta -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/logger.dir/src/Logger.cpp.o -c /Users/houjunren/Desktop/gcta/src/Logger.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/src/Logger.cpp",
+  "output": "CMakeFiles/logger.dir/src/Logger.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build -I/Users/houjunren/Desktop/gcta -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/marker.dir/src/Marker.cpp.o -c /Users/houjunren/Desktop/gcta/src/Marker.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/src/Marker.cpp",
+  "output": "CMakeFiles/marker.dir/src/Marker.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build -I/Users/houjunren/Desktop/gcta -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/optionio.dir/src/OptionIO.cpp.o -c /Users/houjunren/Desktop/gcta/src/OptionIO.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/src/OptionIO.cpp",
+  "output": "CMakeFiles/optionio.dir/src/OptionIO.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build -I/Users/houjunren/Desktop/gcta -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/pheno.dir/src/Pheno.cpp.o -c /Users/houjunren/Desktop/gcta/src/Pheno.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/src/Pheno.cpp",
+  "output": "CMakeFiles/pheno.dir/src/Pheno.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build -I/Users/houjunren/Desktop/gcta -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/statlib.dir/src/StatLib.cpp.o -c /Users/houjunren/Desktop/gcta/src/StatLib.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/src/StatLib.cpp",
+  "output": "CMakeFiles/statlib.dir/src/StatLib.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build -I/Users/houjunren/Desktop/gcta -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/threadpool.dir/src/ThreadPool.cpp.o -c /Users/houjunren/Desktop/gcta/src/ThreadPool.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/src/ThreadPool.cpp",
+  "output": "CMakeFiles/threadpool.dir/src/ThreadPool.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build -I/Users/houjunren/Desktop/gcta -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/mem.dir/src/mem.cpp.o -c /Users/houjunren/Desktop/gcta/src/mem.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/src/mem.cpp",
+  "output": "CMakeFiles/mem.dir/src/mem.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build -I/Users/houjunren/Desktop/gcta -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/tables.dir/src/tables.cpp.o -c /Users/houjunren/Desktop/gcta/src/tables.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/src/tables.cpp",
+  "output": "CMakeFiles/tables.dir/src/tables.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build -I/Users/houjunren/Desktop/gcta -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/utils.dir/src/utils.cpp.o -c /Users/houjunren/Desktop/gcta/src/utils.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/src/utils.cpp",
+  "output": "CMakeFiles/utils.dir/src/utils.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/houjunren/Desktop/gcta/build -I/Users/houjunren/Desktop/gcta -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include -O3 -DNDEBUG -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/acat.dir/src/acat.c.o -c /Users/houjunren/Desktop/gcta/src/acat.c",
+  "file": "/Users/houjunren/Desktop/gcta/src/acat.c",
+  "output": "CMakeFiles/acat.dir/src/acat.c.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build -I/Users/houjunren/Desktop/gcta -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/gcta64.dir/src/main.cpp.o -c /Users/houjunren/Desktop/gcta/src/main.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/src/main.cpp",
+  "output": "CMakeFiles/gcta64.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build/main",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build/main -I/Users/houjunren/Desktop/gcta/main -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/mainV1.dir/CommFunc.cpp.o -c /Users/houjunren/Desktop/gcta/main/CommFunc.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/main/CommFunc.cpp",
+  "output": "main/CMakeFiles/mainV1.dir/CommFunc.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build/main",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build/main -I/Users/houjunren/Desktop/gcta/main -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/mainV1.dir/StatFunc.cpp.o -c /Users/houjunren/Desktop/gcta/main/StatFunc.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/main/StatFunc.cpp",
+  "output": "main/CMakeFiles/mainV1.dir/StatFunc.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build/main",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build/main -I/Users/houjunren/Desktop/gcta/main -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/mainV1.dir/StrFunc.cpp.o -c /Users/houjunren/Desktop/gcta/main/StrFunc.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/main/StrFunc.cpp",
+  "output": "main/CMakeFiles/mainV1.dir/StrFunc.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build/main",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build/main -I/Users/houjunren/Desktop/gcta/main -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/mainV1.dir/bivar_reml.cpp.o -c /Users/houjunren/Desktop/gcta/main/bivar_reml.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/main/bivar_reml.cpp",
+  "output": "main/CMakeFiles/mainV1.dir/bivar_reml.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build/main",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build/main -I/Users/houjunren/Desktop/gcta/main -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/mainV1.dir/data.cpp.o -c /Users/houjunren/Desktop/gcta/main/data.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/main/data.cpp",
+  "output": "main/CMakeFiles/mainV1.dir/data.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build/main",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build/main -I/Users/houjunren/Desktop/gcta/main -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/mainV1.dir/dcdflib.cpp.o -c /Users/houjunren/Desktop/gcta/main/dcdflib.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/main/dcdflib.cpp",
+  "output": "main/CMakeFiles/mainV1.dir/dcdflib.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build/main",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build/main -I/Users/houjunren/Desktop/gcta/main -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/mainV1.dir/edata.cpp.o -c /Users/houjunren/Desktop/gcta/main/edata.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/main/edata.cpp",
+  "output": "main/CMakeFiles/mainV1.dir/edata.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build/main",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build/main -I/Users/houjunren/Desktop/gcta/main -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/mainV1.dir/eigen_func.cpp.o -c /Users/houjunren/Desktop/gcta/main/eigen_func.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/main/eigen_func.cpp",
+  "output": "main/CMakeFiles/mainV1.dir/eigen_func.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build/main",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build/main -I/Users/houjunren/Desktop/gcta/main -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/mainV1.dir/ejma.cpp.o -c /Users/houjunren/Desktop/gcta/main/ejma.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/main/ejma.cpp",
+  "output": "main/CMakeFiles/mainV1.dir/ejma.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build/main",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build/main -I/Users/houjunren/Desktop/gcta/main -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/mainV1.dir/est_hsq.cpp.o -c /Users/houjunren/Desktop/gcta/main/est_hsq.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/main/est_hsq.cpp",
+  "output": "main/CMakeFiles/mainV1.dir/est_hsq.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build/main",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build/main -I/Users/houjunren/Desktop/gcta/main -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/mainV1.dir/gbat.cpp.o -c /Users/houjunren/Desktop/gcta/main/gbat.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/main/gbat.cpp",
+  "output": "main/CMakeFiles/mainV1.dir/gbat.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build/main",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build/main -I/Users/houjunren/Desktop/gcta/main -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/mainV1.dir/grm.cpp.o -c /Users/houjunren/Desktop/gcta/main/grm.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/main/grm.cpp",
+  "output": "main/CMakeFiles/mainV1.dir/grm.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build/main",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build/main -I/Users/houjunren/Desktop/gcta/main -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/mainV1.dir/gsmr.cpp.o -c /Users/houjunren/Desktop/gcta/main/gsmr.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/main/gsmr.cpp",
+  "output": "main/CMakeFiles/mainV1.dir/gsmr.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build/main",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build/main -I/Users/houjunren/Desktop/gcta/main -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/mainV1.dir/gwas_simu.cpp.o -c /Users/houjunren/Desktop/gcta/main/gwas_simu.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/main/gwas_simu.cpp",
+  "output": "main/CMakeFiles/mainV1.dir/gwas_simu.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build/main",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build/main -I/Users/houjunren/Desktop/gcta/main -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/mainV1.dir/joint_meta.cpp.o -c /Users/houjunren/Desktop/gcta/main/joint_meta.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/main/joint_meta.cpp",
+  "output": "main/CMakeFiles/mainV1.dir/joint_meta.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build/main",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build/main -I/Users/houjunren/Desktop/gcta/main -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/mainV1.dir/ld.cpp.o -c /Users/houjunren/Desktop/gcta/main/ld.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/main/ld.cpp",
+  "output": "main/CMakeFiles/mainV1.dir/ld.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build/main",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build/main -I/Users/houjunren/Desktop/gcta/main -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/mainV1.dir/mbat.cpp.o -c /Users/houjunren/Desktop/gcta/main/mbat.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/main/mbat.cpp",
+  "output": "main/CMakeFiles/mainV1.dir/mbat.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build/main",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build/main -I/Users/houjunren/Desktop/gcta/main -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/mainV1.dir/mkl.cpp.o -c /Users/houjunren/Desktop/gcta/main/mkl.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/main/mkl.cpp",
+  "output": "main/CMakeFiles/mainV1.dir/mkl.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build/main",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build/main -I/Users/houjunren/Desktop/gcta/main -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/mainV1.dir/mlm_assoc.cpp.o -c /Users/houjunren/Desktop/gcta/main/mlm_assoc.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/main/mlm_assoc.cpp",
+  "output": "main/CMakeFiles/mainV1.dir/mlm_assoc.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build/main",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build/main -I/Users/houjunren/Desktop/gcta/main -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/mainV1.dir/mtcojo.cpp.o -c /Users/houjunren/Desktop/gcta/main/mtcojo.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/main/mtcojo.cpp",
+  "output": "main/CMakeFiles/mainV1.dir/mtcojo.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build/main",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build/main -I/Users/houjunren/Desktop/gcta/main -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/mainV1.dir/option.cpp.o -c /Users/houjunren/Desktop/gcta/main/option.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/main/option.cpp",
+  "output": "main/CMakeFiles/mainV1.dir/option.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build/main",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build/main -I/Users/houjunren/Desktop/gcta/main -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/mainV1.dir/pc_adjust.cpp.o -c /Users/houjunren/Desktop/gcta/main/pc_adjust.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/main/pc_adjust.cpp",
+  "output": "main/CMakeFiles/mainV1.dir/pc_adjust.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build/main",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build/main -I/Users/houjunren/Desktop/gcta/main -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/mainV1.dir/popu_genet.cpp.o -c /Users/houjunren/Desktop/gcta/main/popu_genet.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/main/popu_genet.cpp",
+  "output": "main/CMakeFiles/mainV1.dir/popu_genet.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build/main",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build/main -I/Users/houjunren/Desktop/gcta/main -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/mainV1.dir/raw_geno.cpp.o -c /Users/houjunren/Desktop/gcta/main/raw_geno.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/main/raw_geno.cpp",
+  "output": "main/CMakeFiles/mainV1.dir/raw_geno.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build/main",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build/main -I/Users/houjunren/Desktop/gcta/main -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/mainV1.dir/reml_within_family.cpp.o -c /Users/houjunren/Desktop/gcta/main/reml_within_family.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/main/reml_within_family.cpp",
+  "output": "main/CMakeFiles/mainV1.dir/reml_within_family.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build/main",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build/main -I/Users/houjunren/Desktop/gcta/main -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/mainV1.dir/sbat.cpp.o -c /Users/houjunren/Desktop/gcta/main/sbat.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/main/sbat.cpp",
+  "output": "main/CMakeFiles/mainV1.dir/sbat.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build/main",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build/main -I/Users/houjunren/Desktop/gcta/main -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/mainV1.dir/zfstream.cpp.o -c /Users/houjunren/Desktop/gcta/main/zfstream.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/main/zfstream.cpp",
+  "output": "main/CMakeFiles/mainV1.dir/zfstream.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build/submods/Pgenlib",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build/submods/Pgenlib -I/Users/houjunren/Desktop/gcta/submods/Pgenlib -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include -I/Users/houjunren/Desktop/gcta/submods/Pgenlib/../plink-ng/2.0  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/Pgenlib.dir/PgenReader.cpp.o -c /Users/houjunren/Desktop/gcta/submods/Pgenlib/PgenReader.cpp",
+  "file": "/Users/houjunren/Desktop/gcta/submods/Pgenlib/PgenReader.cpp",
+  "output": "submods/Pgenlib/CMakeFiles/Pgenlib.dir/PgenReader.cpp.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build/submods/Pgenlib",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build/submods/Pgenlib -I/Users/houjunren/Desktop/gcta/submods/Pgenlib -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include -I/Users/houjunren/Desktop/gcta/submods/Pgenlib/../plink-ng/2.0  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/Pgenlib.dir/__/plink-ng/2.0/plink2_base.cc.o -c /Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/plink2_base.cc",
+  "file": "/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/plink2_base.cc",
+  "output": "submods/Pgenlib/CMakeFiles/Pgenlib.dir/__/plink-ng/2.0/plink2_base.cc.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build/submods/Pgenlib",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build/submods/Pgenlib -I/Users/houjunren/Desktop/gcta/submods/Pgenlib -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include -I/Users/houjunren/Desktop/gcta/submods/Pgenlib/../plink-ng/2.0  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/Pgenlib.dir/__/plink-ng/2.0/pgenlib_ffi_support.cc.o -c /Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/pgenlib_ffi_support.cc",
+  "file": "/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/pgenlib_ffi_support.cc",
+  "output": "submods/Pgenlib/CMakeFiles/Pgenlib.dir/__/plink-ng/2.0/pgenlib_ffi_support.cc.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build/submods/Pgenlib",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build/submods/Pgenlib -I/Users/houjunren/Desktop/gcta/submods/Pgenlib -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include -I/Users/houjunren/Desktop/gcta/submods/Pgenlib/../plink-ng/2.0  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/Pgenlib.dir/__/plink-ng/2.0/pgenlib_misc.cc.o -c /Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/pgenlib_misc.cc",
+  "file": "/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/pgenlib_misc.cc",
+  "output": "submods/Pgenlib/CMakeFiles/Pgenlib.dir/__/plink-ng/2.0/pgenlib_misc.cc.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build/submods/Pgenlib",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build/submods/Pgenlib -I/Users/houjunren/Desktop/gcta/submods/Pgenlib -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include -I/Users/houjunren/Desktop/gcta/submods/Pgenlib/../plink-ng/2.0  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/Pgenlib.dir/__/plink-ng/2.0/pgenlib_read.cc.o -c /Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/pgenlib_read.cc",
+  "file": "/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/pgenlib_read.cc",
+  "output": "submods/Pgenlib/CMakeFiles/Pgenlib.dir/__/plink-ng/2.0/pgenlib_read.cc.o"
+},
+{
+  "directory": "/Users/houjunren/Desktop/gcta/build/submods/Pgenlib",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/houjunren/Desktop/gcta/build/submods/Pgenlib -I/Users/houjunren/Desktop/gcta/submods/Pgenlib -I/opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3 -I/opt/homebrew/Cellar/spectra/1.0.1/include -I/opt/homebrew/Cellar/boost/1.82.0_1/include -I/opt/homebrew/Cellar/libomp/16.0.6/include -I/opt/homebrew/Cellar/zstd/1.5.5/include -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0 -I/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/simde -I/opt/homebrew/Cellar/openblas/0.3.23/include -I/Users/houjunren/Desktop/gcta/include -I/Users/houjunren/Desktop/gcta/submods/Pgenlib/../plink-ng/2.0  -march=native -pthread -O3 -DNDEBUG -O3 -DNDEBUG -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -Xpreprocessor -fopenmp -o CMakeFiles/Pgenlib.dir/__/plink-ng/2.0/pgenlib_write.cc.o -c /Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/pgenlib_write.cc",
+  "file": "/Users/houjunren/Desktop/gcta/submods/plink-ng/2.0/pgenlib_write.cc",
+  "output": "submods/Pgenlib/CMakeFiles/Pgenlib.dir/__/plink-ng/2.0/pgenlib_write.cc.o"
+}
+]

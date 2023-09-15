@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libgrm.a CMakeFiles/grm.dir/src/GRM.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libgrm.a

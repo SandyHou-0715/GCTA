@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libgeno.a CMakeFiles/geno.dir/src/Geno.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libgeno.a

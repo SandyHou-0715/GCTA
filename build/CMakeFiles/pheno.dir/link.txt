@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libpheno.a CMakeFiles/pheno.dir/src/Pheno.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libpheno.a

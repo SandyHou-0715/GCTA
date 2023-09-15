@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc liboptionio.a CMakeFiles/optionio.dir/src/OptionIO.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib liboptionio.a
